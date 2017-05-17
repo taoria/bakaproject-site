@@ -1,0 +1,18 @@
+---
+layout: default
+title:  "Main page of guide"
+date:   2017-05-18 2:25:00
+categories: main
+---
+
+# Baka Maker API Guide
+this is a handbook of Baka API
+
+## Base Core class
+[BakaEnvironment](baka_environment.md)
+
+[BaseMap](base_map.md)
+
+[EntityObjectBase](e_objectbase.md)
+
+[RenderCamera](render_camera.md)

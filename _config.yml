@@ -2,8 +2,8 @@
 title:        baka maker
 tagline:      the simple game maker  
 baseurl:      ""
-paginate:     1
-
+paginate:     2
+future: true
 # About/contact
 author:
   name:       taoria
